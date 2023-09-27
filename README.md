@@ -5,10 +5,14 @@
 📚 I’m currently learning everything about Backend and Frontend technologies. (Specifically Python, Flask, HTML, Javascript)<br>
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 
-[![Spotify](https://spotify-now-playing-8meza6owf-matiasvbs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Matute)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matiasvilchesbru) 
+
+### Listening in Spotify 🎧
+
+[![Spotify](https://spotify-now-playing-8meza6owf-matiasvbs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Matute)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
