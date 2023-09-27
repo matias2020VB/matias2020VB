@@ -8,6 +8,7 @@
 - 📚 I’m currently learning everything about Backend and Frontend technologies. (Specifically Python, Flask, HTML, Javascript)<br>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 
+[![Spotify](https://spotify-now-playing-8meza6owf-matiasvbs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Matute)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matiasvilchesbru) 
@@ -28,7 +29,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-[![Spotify](https://spotify-now-playing-8meza6owf-matiasvbs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Matute)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=matias2020VB&icon=7&color=1)](https://visitcount.itsvg.in)
 
