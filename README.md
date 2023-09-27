@@ -1,11 +1,9 @@
-
 ### Hi everyone 👋
-**matias2020VB/matias2020VB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👀 About Me:
-- 🎓 I’m currently studying on University of Mendoza From San Rafael.<br>- 
-- 📚 I’m currently learning everything about Backend and Frontend technologies. (Specifically Python, Flask, HTML, Javascript)<br>
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
+🎓 I’m currently studying on University of Mendoza From San Rafael.<br>- 
+📚 I’m currently learning everything about Backend and Frontend technologies. (Specifically Python, Flask, HTML, Javascript)<br>
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 
 [![Spotify](https://spotify-now-playing-8meza6owf-matiasvbs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Matute)
 
