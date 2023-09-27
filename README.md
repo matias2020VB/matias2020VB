@@ -1,8 +1,9 @@
-### Hi everyone 👋
+### Hello everyone, I'm Matias 👋
 
-## 👀 About Me:
+## This is a little bit of me: 👀
 🎓 I’m currently studying Computer engineering on University of Mendoza From San Rafael.<br> 
 📚 I’m currently learning everything about Backend and Frontend technologies. (Specifically Python, Flask, HTML, Javascript)<br>
+💻 I consider myself an enthusiastic person about the Linux world where one of the branches where I want to dedicate myself professionally is cybersecurity.<br>
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 
 
