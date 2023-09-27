@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-# 👀 About Me:
+## 👀 About Me:
 🎓 I’m currently studying Computer engineering on University of Mendoza From San Rafael.<br> 
 📚 I’m currently learning everything about Backend and Frontend technologies. (Specifically Python, Flask, HTML, Javascript)<br>
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
